@@ -72,58 +72,42 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-MRJOKER_IMG = "https://telegra.ph/file/e3ffbd55b5ccc600f71fa.jpg"
+MRJOKER_IMG = "https://www.linkpicture.com/q/Orange-and-White-Funny-Dating-Animated-Video-Presentation.gif"
 
 MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-───『 [🦋⃟ƓƠƊ ƠƑ ωοℓƒ ✗ 𝄞✿‌᭄](https://telegra.ph/file/460dd4c48c4419eb719b4.jpg)』───
-Hello! User,
-I am called 𝐰𝐨𝐥𝐟 - 𝐗
-➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
-┏━━━━━━━━━━━━━━━━━━━━━┓
-┃➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ Hᴀᴄᴋᴇʀ ғᴏʀ ᴀɴʏ 
-┃ǫᴜᴇʀʏ ᴀɴᴅ [Hᴀᴄᴋᴇʀ](https://t.me/HMF_OWNER_1) ʜᴇʀᴇ.
-┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
-┗━━━━━━━━━━━━━━━━━━━━━┛
-➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐰𝐨𝐥𝐟 - 𝐗](https://t.me/joinchat/r9qx47U5xEZjY2E1)
+*Hello there*, *I*'*m* [𝓜𝓻,𝓙𝓸𝓴𝓮𝓻](https://telegra.ph/file/6525d89de5b72003d80fa.png)
+*I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group*
+🍃🔻 **Make sure you read** `INFO` **Section Below** 🔺🍃 
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="⚜️𝐀𝐃𝐃 𝐖𝐎𝐋𝐅 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏⚜️", url="t.me/WolfXRobot?startgroup=true"),
+            text="🤡 𝗛𝗘𝗟𝗣 🤡", callback_data="help_back"),
     ],
+   # [
+     #   InlineKeyboardButton(
+     #       text ="Language", callback_data="set_lang_"),
+    #],
     [
+        InlineKeyboardButton(text="🚀 𝗜𝗡𝗙𝗢 🚀", callback_data="mrjoker_"),
         InlineKeyboardButton(
-            text="🍁𝐋𝐎𝐆𝐒🎄", url="https://t.me/PegasusLogs"),
-        InlineKeyboardButton(
-            text="🎈𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎈", url="https://t.me/PegasusSupportofficial"),
+            text=" 𝗕𝗔𝗦𝗜𝗖 𝗛𝗘𝗟𝗣 👮", callback_data="mrjoker_basichelp"
+        ),
     ],
+    
     [
-        InlineKeyboardButton(
-            text="✨𝐇𝐄𝐋𝐏💥", callback_data="help_back"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="🌺𝐖𝐎𝐋𝐅 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🍀", url="https://t.me/HMf_family_offical"),
-        InlineKeyboardButton(
-            text="🍿𝐌𝐎𝐕𝐈𝐄𝐒🎟️", url="https://t.me/HMf_family_offical"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https://t.me/HMF_OWNER_1"
-    ),
+        InlineKeyboardButton(text="➕ 𝐀𝐃𝐃 𝐌𝐑.𝐉𝐎𝐊𝐄𝐂 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.me/Mrjokerlk_bot?startgroup=true"),
     ],
 ]
 
+
 HELP_STRINGS = """
-*★WOLF - X comes with many special features in it★
-❮CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF WOLF-X❯
-𖣘 All commands can either be used with / or !.
-𖣘 If you facing any issue or find any bugs in any command then you can report it @wolfxbotz /  @Hollywood_movies_forever* [.](https://telegra.ph/file/9b70501ee7bb0e7ac2deb.jpg)
-"""
+**SETTINGS**
+**𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐦𝐨𝐝𝐮𝐥𝐞𝐬**[🤖](https://telegra.ph/file/6525d89de5b72003d80fa.png)"""
 
 
 
@@ -248,7 +232,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/joinchat/r9qx47U5xEZjY2E1")]]
+                [[InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="t.me/lkhitech")]]
             ),
         )
         
@@ -324,7 +308,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "❮❮❮❮🐺 𝗪𝗼𝗹𝗳 𝗫 𝗛𝗲𝗹𝗽 𝗳𝗼𝗿 *{}* 𝗺𝗼𝗱𝘂𝗹𝗲 🐺❯❯❯❯:\n".format(
+                "❮❮❮❮🤡 𝗠𝗿.𝗝𝗼𝗸𝗲𝗿 𝗛𝗲𝗹𝗽 𝗳𝗼𝗿 *{}* 𝗺𝗼𝗱𝘂𝗹𝗲 🤡❯❯❯❯:\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -430,7 +414,7 @@ def mrjoker_about_callback(update, context):
                     InlineKeyboardButton(text="𝗡𝗢𝗧𝗘𝗦 📋", callback_data="mrjoker_notes"),
                  ],
                  [
-                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", callback_data="LovelySsupport"),
+                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", callback_data="mrjoker_support"),
                     InlineKeyboardButton(text="𝗖𝗥𝗘𝗗𝗜𝗧 👨🏻‍💻", callback_data="mrjoker_credit"),
                  ],
                  [
@@ -480,10 +464,10 @@ def mrjoker_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="𝗟𝗢𝗚'ꜱ 🤡", url="https://t.me/joinchat/r9qx47U5xEZjY2E1"),
+                    InlineKeyboardButton(text="𝗟𝗢𝗚'ꜱ 🤡", url="https://t.me/mrjokerloggroup"),
                  ],
                  [
-                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", url= "https://t.me/joinchat/r9qx47U5xEZjY2E1"),
+                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", url= "https://t.me/hitechlkgroup"),
                  ],
 
                 ]
@@ -815,11 +799,11 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@Voicebox1", "𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐈𝐬 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 [🐺](https://telegra.ph/file/c545bcb7d4ec33814c596.mp4)", parse_mode=ParseMode.MARKDOWN)
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝙄 𝘼ᴍ 𝘼ʟɪᴠᴇ 🤡")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
-            )        
+            )
         except BadRequest as e:
             LOGGER.warning(e.message)
 
@@ -883,4 +867,3 @@ if __name__ == "__main__":
     telethn.start(bot_token=TOKEN)
     pbot.start()
     main()
-do
