@@ -72,13 +72,13 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-MRJOKER_IMG = "https://www.linkpicture.com/q/Orange-and-White-Funny-Dating-Animated-Video-Presentation.gif"
+MRJOKER_IMG = "https://telegra.ph/file/e3ffbd55b5ccc600f71fa.jpg"
 
 MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-*───『 [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://telegra.ph/file/3262fce750155f0b70f41.jpg)』───
+───『 [⁰²『🇲⭕ 🇳 🇸 🇹 🇪 🇷⚡ᵐˢシ](https://telegra.ph/file/3262fce750155f0b70f41.jpg)』───
 Hello! User,
 I am called 𝐌𝐨𝐧𝐬𝐭𝐞𝐫
 ➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
@@ -87,34 +87,39 @@ I am called 𝐌𝐨𝐧𝐬𝐭𝐞𝐫
 ┃ǫᴜᴇʀʏ ᴀɴᴅ [★⃝𝙈𝙎乛❍𝙁➢𝙏𝙀𝘼𝙈 𝙋𝙍𝙄𝙈𝙀](https://t.me/MonsterMS1) ʜᴇʀᴇ.
 ┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
 ┗━━━━━━━━━━━━━━━━━━━━━┛
-➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://t.me/Voicebox1)"
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://t.me/Voicebox1)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🤡 𝗛𝗘𝗟𝗣 🤡", callback_data="help_back"),
+            text="⚜️𝐀𝐃𝐃 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏⚜️", url="t.me/MonsterMSplayerbot?startgroup=true"),
     ],
-   # [
-     #   InlineKeyboardButton(
-     #       text ="Language", callback_data="set_lang_"),
-    #],
     [
-        InlineKeyboardButton(text="🚀 𝗜𝗡𝗙𝗢 🚀", callback_data="mrjoker_"),
+                InlineKeyboardButton(
+            text="🌺𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🍀", url="https://t.me/HMf_family_offical"),
         InlineKeyboardButton(
-            text=" 𝗕𝗔𝗦𝗜𝗖 𝗛𝗘𝗟𝗣 👮", callback_data="mrjoker_basichelp"
-        ),
+            text="🍿𝐒𝐭𝐚𝐭𝐮𝐬🎟️", url="https://t.me/HMf_family_offical"),
     ],
-    
     [
-        InlineKeyboardButton(text="➕ 𝐀𝐃𝐃 𝐌𝐑.𝐉𝐎𝐊𝐄𝐂 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.me/Mrjokerlk_bot?startgroup=true"),
+        InlineKeyboardButton(
+            text="✨𝐇𝐄𝐋𝐏💥", callback_data="help_back"),
+    ],
+    [
+ 
+        InlineKeyboardButton(
+            text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https:InlineKeyboardButton(
+      
+    ),
     ],
 ]
 
-
 HELP_STRINGS = """
-**SETTINGS**
-**𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐦𝐨𝐝𝐮𝐥𝐞𝐬**[🤖](https://telegra.ph/file/6525d89de5b72003d80fa.png)"""
+*★WOLF - X comes with many special features in it★
+❮CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF WOLF-X❯
+𖣘 All commands can either be used with / or !.
+𖣘 If you facing any issue or find any bugs in any command then you can report it @wolfxbotz /  @Hollywood_movies_forever* [.](https://telegra.ph/file/9b70501ee7bb0e7ac2deb.jpg)
+"""
 
 
 
@@ -239,7 +244,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="t.me/lkhitech")]]
+                [[InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/joinchat/r9qx47U5xEZjY2E1")]]
             ),
         )
         
@@ -315,7 +320,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "❮❮❮❮🤡 𝗠𝗿.𝗝𝗼𝗸𝗲𝗿 𝗛𝗲𝗹𝗽 𝗳𝗼𝗿 *{}* 𝗺𝗼𝗱𝘂𝗹𝗲 🤡❯❯❯❯:\n".format(
+                "❮❮❮❮🐺 𝗪𝗼𝗹𝗳 𝗫 𝗛𝗲𝗹𝗽 𝗳𝗼𝗿 *{}* 𝗺𝗼𝗱𝘂𝗹𝗲 🐺❯❯❯❯:\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -421,7 +426,7 @@ def mrjoker_about_callback(update, context):
                     InlineKeyboardButton(text="𝗡𝗢𝗧𝗘𝗦 📋", callback_data="mrjoker_notes"),
                  ],
                  [
-                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", callback_data="mrjoker_support"),
+                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", callback_data="LovelySsupport"),
                     InlineKeyboardButton(text="𝗖𝗥𝗘𝗗𝗜𝗧 👨🏻‍💻", callback_data="mrjoker_credit"),
                  ],
                  [
@@ -471,10 +476,10 @@ def mrjoker_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="𝗟𝗢𝗚'ꜱ 🤡", url="https://t.me/mrjokerloggroup"),
+                    InlineKeyboardButton(text="𝗟𝗢𝗚'ꜱ 🤡", url="https://t.me/joinchat/r9qx47U5xEZjY2E1"),
                  ],
                  [
-                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", url= "https://t.me/hitechlkgroup"),
+                    InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", url= "https://t.me/joinchat/r9qx47U5xEZjY2E1"),
                  ],
 
                 ]
@@ -806,11 +811,11 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝙄 𝘼ᴍ 𝘼ʟɪᴠᴇ 🤡")
+            dispatcher.bot.sendMessage(f"@Voicebox1", " 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐈𝐬 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 (https://telegra.ph/file/c545bcb7d4ec33814c596.mp4)", parse_mode=ParseMode.MARKDOWN)
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
-            )
+            )        
         except BadRequest as e:
             LOGGER.warning(e.message)
 
