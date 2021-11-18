@@ -78,13 +78,13 @@ MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-───『 [★⃝𝙈𝙎乛❍𝙁➢𝙏𝙀𝘼𝙈 𝙋𝙍𝙄𝙈𝙀](https://telegra.ph/file/3262fce750155f0b70f41.jpg)』───
+───『 [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://telegra.ph/file/3262fce750155f0b70f41.jpg)』───
 Hello! User,
 I am called 𝐌𝐨𝐧𝐬𝐭𝐞𝐫
 ➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ Hᴀᴄᴋᴇʀ ғᴏʀ ᴀɴʏ 
-┃ǫᴜᴇʀʏ ᴀɴᴅ [Hᴀᴄᴋᴇʀ](https://t.me/HMF_OWNER_1) ʜᴇʀᴇ.
+┃ǫᴜᴇʀʏ ᴀɴᴅ [[★⃝𝙈𝙎乛❍𝙁➢𝙏𝙀𝘼𝙈 𝙋𝙍𝙄𝙈𝙀](https://t.me/MonsterMS1) ʜᴇʀᴇ.
 ┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
 ┗━━━━━━━━━━━━━━━━━━━━━┛
 ➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://t.me/Voicebox1)
