@@ -113,8 +113,8 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-*★WOLF - X comes with many special features in it★
-❮CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF WOLF-X❯
+*★Monster comes with many special features in it★
+❮CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF Monster❯
 𖣘 All commands can either be used with / or !.
 𖣘 If you facing any issue or find any bugs in any command then you can report it @MonsterMS1 /  @MSMUSIC1* [.](https://telegra.ph/file/8a00c479f3164e7539431.jpg)
 """
