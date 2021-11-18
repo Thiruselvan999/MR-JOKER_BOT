@@ -78,28 +78,28 @@ MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-───『 [⁰²『🇲⭕ 🇳 🇸 🇹 🇪 🇷⚡ᵐˢシ](https://telegra.ph/file/3262fce750155f0b70f41.jpg)』───
+───『 [🦋⃟ƓƠƊ ƠƑ ωοℓƒ ✗ 𝄞✿‌᭄](https://telegra.ph/file/460dd4c48c4419eb719b4.jpg)』───
 Hello! User,
-I am called 𝐌𝐨𝐧𝐬𝐭𝐞𝐫
+I am called 𝐰𝐨𝐥𝐟 - 𝐗
 ➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ Hᴀᴄᴋᴇʀ ғᴏʀ ᴀɴʏ 
-┃ǫᴜᴇʀʏ ᴀɴᴅ [★⃝𝙈𝙎乛❍𝙁➢𝙏𝙀𝘼𝙈 𝙋𝙍𝙄𝙈𝙀](https://t.me/MonsterMS1) ʜᴇʀᴇ.
+┃ǫᴜᴇʀʏ ᴀɴᴅ [Hᴀᴄᴋᴇʀ](https://t.me/HMF_OWNER_1) ʜᴇʀᴇ.
 ┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
 ┗━━━━━━━━━━━━━━━━━━━━━┛
-➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://t.me/Voicebox1)
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐰𝐨𝐥𝐟 - 𝐗](https://t.me/joinchat/r9qx47U5xEZjY2E1)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="⚜️𝐀𝐃𝐃 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏⚜️", url="t.me/MonsterMSplayerbot?startgroup=true"),
+            text="⚜️𝐀𝐃𝐃 𝐖𝐎𝐋𝐅 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏⚜️", url="t.me/WolfXRobot?startgroup=true"),
     ],
     [
-                InlineKeyboardButton(
-            text="🌺𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🍀", url="https://t.me/HMf_family_offical"),
         InlineKeyboardButton(
-            text="🍿𝐒𝐭𝐚𝐭𝐮𝐬🎟️", url="https://t.me/HMf_family_offical"),
+            text="🍁𝐋𝐎𝐆𝐒🎄", url="https://t.me/PegasusLogs"),
+        InlineKeyboardButton(
+            text="🎈𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎈", url="https://t.me/PegasusSupportofficial"),
     ],
     [
         InlineKeyboardButton(
@@ -107,7 +107,13 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https:InlineKeyboardButton(
+            text="🌺𝐖𝐎𝐋𝐅 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🍀", url="https://t.me/HMf_family_offical"),
+        InlineKeyboardButton(
+            text="🍿𝐌𝐎𝐕𝐈𝐄𝐒🎟️", url="https://t.me/HMf_family_offical"),
+    ],
+    [
+        InlineKeyboardButton(
+            text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https://t.me/HMF_OWNER_1"
     ),
     ],
 ]
@@ -809,7 +815,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@Voicebox1", " 𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐈𝐬 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 (https://telegra.ph/file/c545bcb7d4ec33814c596.mp4)", parse_mode=ParseMode.MARKDOWN)
+            dispatcher.bot.sendMessage(f"@Voicebox1", "𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐈𝐬 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 [🐺](https://telegra.ph/file/c545bcb7d4ec33814c596.mp4)", parse_mode=ParseMode.MARKDOWN)
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
@@ -877,3 +883,4 @@ if __name__ == "__main__":
     telethn.start(bot_token=TOKEN)
     pbot.start()
     main()
+do
