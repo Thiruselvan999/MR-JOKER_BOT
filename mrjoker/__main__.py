@@ -107,12 +107,6 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🌺𝐖𝐎𝐋𝐅 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🍀", url="https://t.me/HMf_family_offical"),
-        InlineKeyboardButton(
-            text="🍿𝐌𝐎𝐕𝐈𝐄𝐒🎟️", url="https://t.me/HMf_family_offical"),
-    ],
-    [
-        InlineKeyboardButton(
             text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https://t.me/MonsterMS1"
     ),
     ],
