@@ -6,6 +6,7 @@ numpy
 multicolorcaptcha
 tzlocal==2.0
 pykeyboard
+python-barcode==0.13.1
 lxml
 wget
 PyDictionary
