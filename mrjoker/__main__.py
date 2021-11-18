@@ -97,9 +97,9 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🍁𝐋𝐎𝐆𝐒🎄", url="https://t.me/PegasusLogs"),
+            text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎄", url="https://t.me/MSMUSIC1"),
         InlineKeyboardButton(
-            text="🎈𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎈", url="https://t.me/PegasusSupportofficial"),
+            text="🎈𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎈", url="https://t.me/Voicebox1"),
     ],
     [
         InlineKeyboardButton(
@@ -116,7 +116,7 @@ HELP_STRINGS = """
 *★WOLF - X comes with many special features in it★
 ❮CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF WOLF-X❯
 𖣘 All commands can either be used with / or !.
-𖣘 If you facing any issue or find any bugs in any command then you can report it @wolfxbotz /  @Hollywood_movies_forever* [.](https://telegra.ph/file/9b70501ee7bb0e7ac2deb.jpg)
+𖣘 If you facing any issue or find any bugs in any command then you can report it @MonsterMS1 /  @MSMUSIC1* [.](https://telegra.ph/file/8a00c479f3164e7539431.jpg)
 """
 
 
