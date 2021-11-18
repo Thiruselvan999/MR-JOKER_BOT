@@ -106,10 +106,8 @@ buttons = [
             text="✨𝐇𝐄𝐋𝐏💥", callback_data="help_back"),
     ],
     [
- 
         InlineKeyboardButton(
             text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https:InlineKeyboardButton(
-      
     ),
     ],
 ]
