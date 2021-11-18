@@ -78,10 +78,16 @@ MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-*Hello there*, *I*'*m* [𝓜𝓻,𝓙𝓸𝓴𝓮𝓻](https://telegra.ph/file/6525d89de5b72003d80fa.png)
-*I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group*
-🍃🔻 **Make sure you read** `INFO` **Section Below** 🔺🍃 
-"""
+*───『 [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://telegra.ph/file/3262fce750155f0b70f41.jpg)』───
+Hello! User,
+I am called 𝐌𝐨𝐧𝐬𝐭𝐞𝐫
+➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
+┏━━━━━━━━━━━━━━━━━━━━━┓
+┃➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ Hᴀᴄᴋᴇʀ ғᴏʀ ᴀɴʏ 
+┃ǫᴜᴇʀʏ ᴀɴᴅ [★⃝𝙈𝙎乛❍𝙁➢𝙏𝙀𝘼𝙈 𝙋𝙍𝙄𝙈𝙀](https://t.me/MonsterMS1) ʜᴇʀᴇ.
+┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
+┗━━━━━━━━━━━━━━━━━━━━━┛
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐌𝐨𝐧𝐬𝐭𝐞𝐫](https://t.me/Voicebox1)"
 
 buttons = [
     [
