@@ -78,7 +78,7 @@ MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-───『 [★⃝𝙈𝙎乛❍𝙁➢𝙏𝙀𝘼𝙈 𝙋𝙍𝙄𝙈𝙀](https://t.me/MonsterMS1)』───
+───『 [★⃝𝙈𝙎乛❍𝙁➢𝙏𝙀𝘼𝙈 𝙋𝙍𝙄𝙈𝙀](https://telegra.ph/file/3262fce750155f0b70f41.jpg)』───
 Hello! User,
 I am called 𝐌𝐨𝐧𝐬𝐭𝐞𝐫
 ➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
