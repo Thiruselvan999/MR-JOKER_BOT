@@ -108,8 +108,8 @@ buttons = [
     [
         InlineKeyboardButton(
             text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https://t.me/MonsterMS1"
-    (,
-    [,
+    ),
+    ],
 ]
 
 HELP_STRINGS = """
