@@ -97,9 +97,9 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎄", url="https://t.me/stuxnetBotz"),
+            text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎄", url="https://t.me/MSMUSIC1"),
         InlineKeyboardButton(
-            text="🎈𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎈", url="https://t.me/Stuxnet_1_official"),
+            text="🎈𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎈", url="https://t.me/stuxnet_1_offical"),
     ],
     [
         InlineKeyboardButton(
