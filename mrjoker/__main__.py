@@ -107,10 +107,8 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https://t.me/MonsterMS1"),
-        InlineKeyboardButton(
-            text="❄️𝐋𝐨𝐠𝐬🎀", url="https://t.me/stuxnet_logs"
-    ],
+            text="❄️𝐎𝐖𝐍𝐄𝐑🍒", url="https://t.me/MonsterMS1"
+    (,
     [,
 ]
 
