@@ -93,11 +93,11 @@ I am called 𝐌𝐨𝐧𝐬𝐭𝐞𝐫
 buttons = [
     [
         InlineKeyboardButton(
-            text="⚜️𝐀𝐃𝐃 𝐖𝐎𝐋𝐅 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏⚜️", url="t.me/MonsterMSplayerbot?startgroup=true"),
+            text="⚜️𝐀𝐃𝐃 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏⚜️", url="t.me/MonsterMSplayerbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
-            text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎄", url="https://t.me/MSMUSIC1"),
+            text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎄", url="https://t.me/stuxnetBotz"),
         InlineKeyboardButton(
             text="🎈𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎈", url="https://t.me/Voicebox1"),
     ],
